@@ -1,2 +1,7 @@
-# par_impar
-programa para verificar si un numero es par o impar
+# PAR_IMPAR
+PROGRAMA PARA SABER SI UN NÚMERO ES PAR O IMPAR 
+
+# DISEÑO
+
+## Diagrama de flujo
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
